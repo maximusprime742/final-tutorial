@@ -1,5 +1,6 @@
 ---
 title: Music Through The Decades
+theme: jekyll-theme-time-machine
 ---
 
 # Music Through The Decades
