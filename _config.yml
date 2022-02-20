@@ -1,7 +1,4 @@
 title: Music Through The Decades
 description: An in depth look on how to use the Spotify API to take popular music in the last several decades through the data science pipeline using Python.
 
-theme: jekyll-theme-time-machine
-plugins:
-  -jekyll-feed
-  
+theme: jekyll-theme-time-machine 
